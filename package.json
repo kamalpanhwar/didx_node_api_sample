@@ -1,0 +1,18 @@
+{
+  "name": "asad_shit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getDIDCountry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamal Uddin Panhwar <kamalpanhwar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "xml2js": "^0.4.19"
+  },
+  "bundleDependencies": [
+    "request"
+  ]
+}
